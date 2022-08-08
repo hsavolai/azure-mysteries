@@ -1,2 +1,3 @@
-# azure-mysteries
-Azure scripts and snippets
+# Azure Mysteries
+
+This is my collection of Azure snippets and scripts
