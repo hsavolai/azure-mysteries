@@ -1,4 +1,4 @@
-# List azure oneliners and such
+# List of azure oneliners and such
 
 ## OL-1: Testing service principal credentials
 
